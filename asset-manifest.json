@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/bundle.min.css",
-    "main.js": "/static/js/bundle.js",
-    "main.js.map": "/static/js/bundle.js.map",
-    "index.html": "/index.html",
-    "static/css/bundle.min.css.map": "/static/css/bundle.min.css.map",
-    "static/js/bundle.js.LICENSE.txt": "/static/js/bundle.js.LICENSE.txt",
-    "static/media/inter.css": "/static/media/Inter.var.9df5db38.woff2"
+    "main.css": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/css/bundle.min.css",
+    "main.js": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/js/bundle.js",
+    "main.js.map": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/js/bundle.js.map",
+    "index.html": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/index.html",
+    "static/css/bundle.min.css.map": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/css/bundle.min.css.map",
+    "static/js/bundle.js.LICENSE.txt": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/js/bundle.js.LICENSE.txt",
+    "static/media/inter.css": "https://highstack-co.github.io/highstack-co-beerinu-defi-swap-interface-live/static/media/Inter.var.9df5db38.woff2"
   },
   "entrypoints": [
     "static/css/bundle.min.css",
